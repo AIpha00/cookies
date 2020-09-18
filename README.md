@@ -62,8 +62,6 @@ API_PROCESS = True
 
 ## 运行
 
-请先导入一部分账号之后再运行，运行命令：
-
 ```
 python3 run.py
 ```
